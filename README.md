@@ -7,7 +7,6 @@
 <ul>
   <li>👨‍🔧 Soy un <b>estudiante de desarrollo de software</b> (en 3er año de la carrera)</li>
   <li>📍 Ubicación: La Matanza, Zona Oeste del Gran Buenos Aires (GBA)</li>
-  <li>🌱 Actualmente estoy aprendiendo <b>Certificación Cisco</b> y <b>Python</b></li>
   <li>📮 Contacto: <b>nicolas.andres.torres1@gmail.com</b></li>
 </ul>
 🖥️ Mis stacks tecnológicos :
